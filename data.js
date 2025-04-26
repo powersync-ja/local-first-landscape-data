@@ -9,7 +9,7 @@ export const data = LandscapeSchema.make({
   Website: 'https://www.powersync.com',
   GitHub: "https://github.com/powersync-ja",
   License: 'FSL-Apache 2.0 (Service) & Apache 2.0 (SDKs)',
-  UniquenessNote: "test UniquenessNote.",
+  UniquenessNote: "Sync Rules allow flexible dynamic partial syncing. Write path is fully customizable through your own backend.",
   InitialReleaseDate: new Date("2023-11-30"),
   Deployment: ['Self-hosted', 'Hosted'],
   MaturityLevel: "Production-Ready",

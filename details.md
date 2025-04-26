@@ -1,15 +1,16 @@
-# SuperSync
+## General
 
-SuperSync is a cool way to sync your data.
+Lorem ipsum dolor sit amet consectetur. Penatibus viverra quam massa leo suspendisse. Est porttitor donec integer luctus sed sed ipsum in adipiscing. Nunc pharetra lacus iaculis tristique penatibus dolor sit.
 
-## Features
+![Architecture diagram](https://i.imgur.com/xCOK0b7.jpeg)
 
-- **SuperSync**: Sync your data with ease.
-- **Local-first**: Your data is stored locally, ensuring privacy and security.
-- **Cross-platform**: Works on all major platforms.
-- **Open-source**: The code is available for anyone to use and contribute to.
-- **Community-driven**: Join our community and help us improve the project.
+## The Story
 
-## More info
+Lorem ipsum dolor sit amet consectetur. Penatibus viverra quam massa leo suspendisse. Est porttitor donec integer luctus sed sed ipsum in adipiscing. Nunc pharetra lacus iaculis tristique penatibus dolor sit. Lorem ipsum dolor sit amet consectetur. Penatibus viverra quam massa leo suspendisse. Est porttitor donec integer luctus sed sed ipsum in adipiscing. Nunc pharetra lacus iaculis tristique penatibus dolor sit. Lorem ipsum dolor sit amet consectetur. Penatibus viverra quam massa leo suspendisse. Est porttitor donec integer luctus sed sed ipsum in adipiscing. Nunc pharetra lacus iaculis tristique penatibus dolor sit.
 
-...
+## Resources
+
+Lorem ipsum dolor sit amet consectetur. Penatibus viverra quam massa leo suspendisse.
+
+- [Website](https://powersync.com)
+- [Documentation](https://docs.powersync.com/intro/powersync-overview)
